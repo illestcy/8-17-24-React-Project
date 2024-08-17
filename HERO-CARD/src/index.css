@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.Pangalan {
+  height: 100vh;
+  background-image: url(wallpaper.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.Pangalan h1 {
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+.Pangalan2 {
+  width: 500px;
+  height: 225px;
+  background-color: black;
+  border-radius: 50px;
+  
+}
+
+
+
+
+
+
+
+
+.yandin {
+  height: 50vh;
+  background-color: red;
+}
+
+
+
